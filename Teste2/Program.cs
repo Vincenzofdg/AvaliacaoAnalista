@@ -23,22 +23,22 @@ public class Program
         }
 
         Console.WriteLine("Sequência de Fibonacci:");
-
-        FibonacciResult(repetitions);
+        Console.WriteLine(FibonacciResult(repetitions));
     }
 
-    static void FibonacciResult(int count)
+    public static string FibonacciResult(int count)
     {
+        var result = new List<int>();
         int a = 1, b = 1;
 
         for (int i = 0; i < count; i++)
         {
-            Console.Write(i == 0 ? $"{a}" : $", {a}");
+            result.Add(a);
             int next = a + b;
             a = b;
             b = next;
         }
 
-        Console.WriteLine();
+        return string.Join(", ", result);
     }
 }

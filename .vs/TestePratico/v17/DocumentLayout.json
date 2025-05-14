@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{ABC512FA-BEA3-41DD-82A4-8AD615E03570}|Teste2\\Teste2.csproj|solutionrelative:teste2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|c:\\users\\vince\\projects\\pq\\avaliacaoanalista\\unittest\\teste1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\teste1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|c:\\users\\vince\\projects\\pq\\avaliacaoanalista\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E45E0A6D-0DDE-44B2-930B-C4646371E2BC}|Teste1\\Teste1.csproj|c:\\users\\vince\\projects\\pq\\avaliacaoanalista\\teste1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45E0A6D-0DDE-44B2-930B-C4646371E2BC}|Teste1\\Teste1.csproj|solutionrelative:teste1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|c:\\users\\vince\\projects\\pq\\avaliacaoanalista\\unittest\\teste2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A21211D-CF2D-4DBF-BCAA-206E3076C1DE}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\teste2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,50 +46,24 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\Teste2\\Program.cs",
               "RelativeDocumentMoniker": "Teste2\\Program.cs",
-              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\Teste2\\Program.cs",
-              "RelativeToolTip": "Teste2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\Teste2\\Program.cs*",
+              "RelativeToolTip": "Teste2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:40:18.932Z",
+              "WhenOpened": "2025-05-14T23:22:07.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Teste1.cs",
-              "DocumentMoniker": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\Teste1.cs",
-              "RelativeDocumentMoniker": "UnitTest\\Teste1.cs",
-              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\Teste1.cs",
-              "RelativeToolTip": "UnitTest\\Teste1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAjAAAAAAAAAA==",
+              "Title": "Teste2.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\Teste2.cs",
+              "RelativeDocumentMoniker": "UnitTest\\Teste2.cs",
+              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\Teste2.cs",
+              "RelativeToolTip": "UnitTest\\Teste2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:37:16.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest",
-              "DocumentMoniker": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\UnitTest.csproj",
-              "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
-              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\UnitTest\\UnitTest.csproj",
-              "RelativeToolTip": "UnitTest\\UnitTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-14T22:36:47.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\Teste1\\Program.cs",
-              "RelativeDocumentMoniker": "Teste1\\Program.cs",
-              "ToolTip": "C:\\Users\\vince\\Projects\\pq\\AvaliacaoAnalista\\Teste1\\Program.cs",
-              "RelativeToolTip": "Teste1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:34:48.843Z",
+              "WhenOpened": "2025-05-14T23:15:02.763Z",
               "EditorCaption": ""
             }
           ]
