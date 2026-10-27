@@ -5,6 +5,7 @@
     Exemplo: AAABCCDDD -> Retorno : ABCD
  */
 
+
 namespace Teste1
 {
     internal class Program
